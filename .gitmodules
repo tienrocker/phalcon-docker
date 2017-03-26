@@ -1,0 +1,3 @@
+[submodule "yona-cms"]
+	path = yona-cms
+	url = git@github.com:tienrocker/yona-cms.git
