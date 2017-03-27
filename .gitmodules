@@ -1,3 +1,6 @@
 [submodule "yona-cms"]
 	path = yona-cms
 	url = git@github.com:tienrocker/yona-cms.git
+[submodule "filmcms"]
+	path = filmcms
+	url = git@bitbucket.org:marvelvietnam/filmcms.git
